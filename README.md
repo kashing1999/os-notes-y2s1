@@ -8,7 +8,7 @@ Making my own notes because selvie can't do any better :D
 4. [Page Memory Allocation 2](4.md)
 5. [Page Replacement Schemes](5.md)
 6. [Process Management](6.md)
-7. [Scheduling Algorithms](7.md)
+7. [Threads](7.md)
 8. [Concurency](8.md)
 9. [Race Conditions](9.md)
 10. [Deadlocks](10.md)
