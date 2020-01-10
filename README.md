@@ -4,8 +4,8 @@ Making my own notes because selvie can't do any better :D
 # Table of Contents
 1. [Operating System Principles](1.md)
 2. [Kernels and Memory Management](2.md)
-3. [Page Memory Allocation 1](3.md)
-4. [Page Memory Allocation 2](4.md)
+3. [Memory Allocation](3.md)
+4. [Page Memory Allocation](4.md)
 5. [Page Replacement Schemes](5.md)
 6. [Process Management](6.md)
 7. [Threads](7.md)
