@@ -1,5 +1,5 @@
 # os-notes-y2s1
-Making my own notes because selvie can't do any better :D
+Exam's over, I won't be maintaning these notes anymore. Anyone who stumbles across this feel free to fork it.
 
 # Table of Contents
 1. [Operating System Principles](1.md)
